@@ -20,5 +20,3 @@ Built a factorial function that takes an integer n
 The factorial function covers edge cases
 
 Built user input requirement that outputs the input integer along with its factorial
-
-"""
